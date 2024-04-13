@@ -26,7 +26,10 @@ nav{
     width: 100%;
     border-bottom-left-radius:200%;
 }
-.logo{
+#logo1{
+    color:#fff;
+}
+.logo2{
     position: absolute;
     top:400px;
     left:900px;
